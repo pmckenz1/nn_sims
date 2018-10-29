@@ -6,6 +6,7 @@ dependencies:
   - keras
   - h5py
   - numba
-  - sklearn
-  - toytree
-  - toyplot
+  - scikit-learn
+  - pip:
+    - toytree
+    - toyplot

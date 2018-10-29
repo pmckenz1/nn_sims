@@ -1,0 +1,11 @@
+name: model_fitting
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - keras
+  - h5py
+  - numba
+  - sklearn
+  - toytree
+  - toyplot
